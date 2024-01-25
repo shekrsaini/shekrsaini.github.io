@@ -32,8 +32,9 @@ github_username:  shekr
 # Build settings
 theme: minima
 plugins:
+  - jekyll-remote-theme
   # - jekyll-feed
-  - not-pure-poole
+  # - not-pure-poole
 remote_theme: vszhub/not-pure-poole
 # Exclude from processing.
 # The following items will not be processed, by default.
